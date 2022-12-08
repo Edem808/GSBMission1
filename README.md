@@ -9,5 +9,21 @@ GSBfrais est une application Web écrite en PHP. Elle utilise la base de donnée
 | Test fonctionel | Description |
 | --- | --- |
 | 1 | Bouton de déconnexion de l'utilisateur |
-| 2 | Affichage vue  |
-| 3 | Reglages de la liste déroulante  |
+| 2 | Destruction de la session |
+| 3 | Affichage vue  |
+| 4 | Reglages de la liste déroulante  |
+
+
+
+PAGE DE CONNEXION 
+![image](https://user-images.githubusercontent.com/113182093/206461700-54277242-6852-4c4a-a9fc-b7d9ef3c1a99.png)
+
+
+VUE UNE FOIS CONNECTE
+
+![image](https://user-images.githubusercontent.com/113182093/206461872-911ce1c8-f72c-4506-b4e4-9b68c41c7429.png)
+
+
+
+
+
