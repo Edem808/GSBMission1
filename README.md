@@ -6,12 +6,12 @@ Dans le contexte pédagogique de GSB, groupe pharmaceutique résultant de la fus
 
 GSBfrais est une application Web écrite en PHP. Elle utilise la base de données "gsbfrais" sous MySQL.
 
-| Test fonctionel | Description |
+| Test fonctionel | Description / Valider | 
 | --- | --- |
-| 1 | Bouton de déconnexion de l'utilisateur |
-| 2 | Destruction de la session |
-| 3 | Affichage vue  |
-| 4 | Reglages de la liste déroulante  |
+| 1 | Bouton de déconnexion de l'utilisateur / Valide|
+| 2 | Destruction de la session / Valide | 
+| 3 | Affichage vue / Valide | 
+| 4 | Reglages de la liste déroulante / Valide|
 
 
 
